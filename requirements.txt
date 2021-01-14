@@ -1,0 +1,10 @@
+numpy==1.18.5
+pandas==1.0.5
+xarray==0.16.0
+random
+gsw
+sklearn==0.23.1
+scipy==1.5.0
+matplotlib==3.2.2
+mpl_toolkits.basemap==1.2.1
+cmocean==2.0
