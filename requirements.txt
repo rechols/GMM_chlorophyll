@@ -5,4 +5,4 @@ sklearn
 scipy==1.5.0
 matplotlib==3.2.2
 cmocean
-gsw
+mpl_toolkits
