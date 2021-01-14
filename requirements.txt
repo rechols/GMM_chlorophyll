@@ -4,5 +4,5 @@ xarray==0.16.0
 sklearn
 scipy==1.5.0
 matplotlib==3.2.2
-mpl_toolkits.basemap==1.2.1
-cmocean==2.0
+mpl_toolkits.basemap
+cmocean
