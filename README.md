@@ -5,3 +5,6 @@ This notebook will guide you through the process of applying a Gaussian Mixture 
 This notebook reflects work done by Rosalind Echols as a PhD candidate at the University of Washington School of Oceanography. 
 
 The data used in this notebook can be downloaded by following this link: https://bit.ly/3bGmN0c
+However, you can also explore it through the Binder link below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rechols/GMM_chlorophyll/HEAD)
